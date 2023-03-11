@@ -1,0 +1,45 @@
+		||Apuntes Sobre El Trabajo Integrador de JAVA||
+
+~Consta de un posible Resultado de un Partido
+sea individuales o de equipo (Gane, Pierda y empate)
+
+~Seran tantos partidos como tambien Participantes. el resultado tambien indicara los puntos a los Participantes 
+
+~Finalmente quien gane sera la Persona que tenga mas puntos
+...-tenis -pool -ajedrez -ping pong - 1vs1 - 2vs2
+
+~La idea es un programa por consola que ordene tanto los partidos, los puntajes de cada participante dando asi al ganador de la misma competencia
+
+~De momento el objetivo sera Pronosticar el resultado, basicamente sumar puntos y se obtendra un listado final.   
+
+~diagrama muestra: (puede ser modificado en cualquier momento)
+Equipo
+Partido
+Rondas
+Pronostico 
+Resultado
+
+~desarrollar un programa que lea un archivo de
+partidos y otro de resultados.el primero correspondiente a una ronda y el otro que contenga
+los pronósticos de una persona
+1
+
+~Tomar como argumento 2 rutas a cada archivo que se necesita
+Se debe considerar la forma de identificar los partidos de forma unívoca para su correcto
+procesamiento
+
+~Al leer las líneas de los archivos debe instanciar objetos de las clases propuestas
+
+~Debe imprimir por pantalla el puntaje de la persona
+
+~Leyendo los 2 (dos) archivos, y suponiendo que cada resultado acertado suma 1 (un) punto, la
+salida del programa debe ser: Puntaje = 1
+
+
+
+
+
+
+
+
+
